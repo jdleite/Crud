@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="remover">Remover</string>
+    <string name="consultar">Consultar</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="salario">Salário</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="buscar">Buscar</string>
+    <string name="alterar">Alterar</string>
+    <string name="nome_obrigatorio">Nome é obrigatório</string>
+    <string name="idade_obrigatorio">Idade é Obrigatório</string>
+    <string name="inserido_sucesso">Inserido com sucesso</string>
+    <string name="alterar_sucesso">Pessoa alterada com sucesso</string>
+    <string name="deletar_sucesso">Pessoa deletada</string>
+</resources>
